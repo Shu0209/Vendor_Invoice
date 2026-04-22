@@ -17,7 +17,7 @@ This portal automates both using machine learning, reducing manual workload and 
 
 ## 🚀 Live Demo
 
-> 🔗 [Coming Soon — Deploy link here]
+> 🔗 [Coming Soon]
 
 ---
 
