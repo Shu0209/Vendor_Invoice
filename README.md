@@ -115,7 +115,7 @@ Flags invoices that require manual approval based on abnormal patterns.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Shu0209/vendor-invoice-intelligence.git
+git clone https://github.com/Shu0209/Vendor_Invoice.git
 cd vendor-invoice-intelligence
 ```
 
