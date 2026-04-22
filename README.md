@@ -241,10 +241,4 @@ plotly
 
 **Your Name**
 - GitHub: [@Shu0209](https://github.com/Shu0209)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
