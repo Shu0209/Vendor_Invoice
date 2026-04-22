@@ -240,7 +240,7 @@ plotly
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@Shu0209](https://github.com/yourusername)
+- GitHub: [@Shu0209](https://github.com/Shu0209)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
